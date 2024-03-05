@@ -24,6 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
+![GitHub Contribution Graph](URL_OF_YOUR_CONTRIBUTION_GRAPH_IMAGE)
+
+![image](https://github.com/tchering/tchering/assets/101142140/924a471c-5c59-4f71-ad2e-a5643403632c)
 
 
 - 🔭 I’m currently working on ...
