@@ -1,5 +1,5 @@
 
-### Hi there 👋. My name is Sonam Sherpa.
+### Hi there 👋. My name is Sonam Sherpa. How are you 
 
 
 <h1 align="center">Welcome to my Github profile</h1>
