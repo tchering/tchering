@@ -33,7 +33,7 @@
 
 ###
 <h3 align="center" style="margin:20px;">My Socials</h3>
-<div align="center">
+<div align="center" style="margin:20px;">
   <a href = "https://sonamcv.online">
   <img src="portfolio.png" height="35" alt="youtube logo"  />
     </a>
