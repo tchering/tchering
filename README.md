@@ -1,10 +1,10 @@
 ### Hi there 👋. My name is Sonam Sherpa.
 
-<h1 align="center">Welcome to my Github profile</h1>
+<h1 align="center" style="margin:20px;">Welcome to my Github profile</h1>
 
 
 ###
-<h3 align="center">My Skills</h3>
+<h3 align="center" style="margin:20px;">My Skills</h3>
 
 ###
 
