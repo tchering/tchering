@@ -32,7 +32,7 @@
 </div>
 
 ###
-<h3 align="center">My Socials</h3>
+<h3 align="center" style="margin:20px;">My Socials</h3>
 <div align="center">
   <a href = "https://sonamcv.online">
   <img src="portfolio.png" height="35" alt="youtube logo"  />
