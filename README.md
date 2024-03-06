@@ -4,14 +4,14 @@
 
 
 ###
-<h3 align="left">My Skills</h3>
+<h3 align="center">My Skills</h3>
 
 ###
 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -32,8 +32,8 @@
 </div>
 
 ###
-<h3 align="left">My Socials</h3>
-<div align="left">
+<h3 align="center">My Socials</h3>
+<div align="center">
   <a href = "https://sonamcv.online">
   <img src="portfolio.png" height="35" alt="youtube logo"  />
     </a>
