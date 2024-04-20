@@ -65,9 +65,9 @@ Preparing myself for an exciting opportunity with DOST.PRO, where I will be spen
 -React and Ruby to broaden my technical toolkit. React's component-based architecture has captivated me, and I’m diving deep into state management and hooks. Simultaneously, I’m exploring Ruby, particularly its elegant syntax and the powerful Rails framework, to construct robust backend services.
 ## 👯 I’m looking to collaborate on ...
 
-Projects that leverage the power of PHP, Symfony, and MySQL. Having honed my skills in these technologies, I am excited to collaborate with individuals or teams who are as passionate about building robust and scalable web applications as I am. Whether it's developing new features, optimizing existing codebases, or brainstorming innovative solutions to complex problems, I bring a committed and detail-oriented approach to every project.
+Projects that leverage the power of Ruby, Rails 7. Having honed my skills in these technologies, I am excited to collaborate with individuals or teams who are as passionate about building robust and scalable web applications as I am. Whether it's developing new features, optimizing existing codebases, or brainstorming innovative solutions to complex problems, I bring a committed and detail-oriented approach to every project.
 
-My experience with PHP and Symfony enables me to contribute effectively to backend development, ensuring applications are not only functional but also maintainable and secure. Meanwhile, my understanding of MySQL allows me to design and optimize databases that support the efficient retrieval and storage of data, essential for any dynamic web application.
+My experience with Ruby and Rails enables me to contribute effectively to backend development, ensuring applications are not only functional but also maintainable and secure. Meanwhile, my understanding of Postgre sql allows me to design and optimize databases that support the efficient retrieval and storage of data, essential for any dynamic web application.
 
 If you're working on a project that could benefit from my expertise, or if you're interested in starting a new venture that aligns with these technologies, I'd love to connect and explore how we can collaborate to create something remarkable.
 ##🤔 I’m looking for help with ...
