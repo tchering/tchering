@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
-<img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="PostgreSQL logo" width="12" />
+<img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="PostgreSQL logo" height="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=ruby" height="30" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=rails" height="30" alt="mysql logo"  />
