@@ -12,7 +12,7 @@
 ###
 
 <div align="center" style="margin:20px;">
-  <img src="https://skillicons.dev/icons?i=ruby" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=ruby" height="'40" alt="mysql logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=rails" height="30" alt="mysql logo"  />
    <img width="12" />
