@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+ 
 </div>
 
 ###
