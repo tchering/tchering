@@ -51,11 +51,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tchering&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tchering&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tchering&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tchering&theme=vue-dark&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchering&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150">
 </div>
+
 
 
 <br clear="both">
