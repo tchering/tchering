@@ -59,8 +59,11 @@
 
 
 <br clear="both">
+<h2 align="center">🏆 My GitHub Contributions 🏆</h2>
 
-
+<div align="center">
+  <img src="https://github.com/tchering/tchering/blob/output/github-snake.svg" alt="GitHub Snake Animation">
+</div>
 ![snake gif](https://github.com/tchering/tchering/blob/output/github-snake.svg)
 
 ## 🔭 I’m currently working on ...
