@@ -60,7 +60,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tchering/tchering/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/tchering/tchering/blob/output/github-contribution-grid-snake.gif)
 
 ## 🔭 I’m currently working on ...
 Preparing myself for an exciting opportunity with DOST.PRO, where I will be spending the next 2.5 months immersing myself in real-world projects. This experience represents a significant step in my career, as I aim to contribute to and learn from the cutting-edge work being done at DOST.PRO. I'm particularly eager to dive into new technologies and methodologies, enhancing my skills in full stack development with a focus on  Ruby/Ruby on rails.
