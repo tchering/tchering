@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sonam+Sherpa!;&center=true&size=30">
   </a>
 </h1>
 
@@ -64,7 +64,6 @@
 <div align="center">
   <img src="https://github.com/tchering/tchering/blob/output/github-snake.svg" alt="GitHub Snake Animation">
 </div>
-![snake gif](https://github.com/tchering/tchering/blob/output/github-snake.svg)
 
 ## 🔭 I’m currently working on ...
 Preparing myself for an exciting opportunity with DOST.PRO, where I will be spending the next 2.5 months immersing myself in real-world projects. This experience represents a significant step in my career, as I aim to contribute to and learn from the cutting-edge work being done at DOST.PRO. I'm particularly eager to dive into new technologies and methodologies, enhancing my skills in full stack development with a focus on  Ruby/Ruby on rails.
