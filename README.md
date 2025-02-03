@@ -1,53 +1,55 @@
-### Hi there 👋. My name is Sonam Sherpa.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
 
-<h1 align="center" style="margin:20px;">Welcome to my Github profile</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+  </a>
+</h1>
+
+<br>
+<p align="center">
+  Hi, I'm Sonam Sherpa, Web Developer/Coder 🥷, Learner 👨‍💻 from France 🇫🇷.
+  <br>
+  <br>
+  🎓 I hold a <a href="https://www.francecompetences.fr/">Titre professionnel</a> classified as Niveau 5 in the French National Framework of Professional Certifications (*Cadre National des Certifications Professionnelles*).
+  <br>
+  💻 I started my coding journey with PHP at <a href="https://www.armee.defense.gouv.fr/cmf/cfmf-pro">CMFP (Centre Militaire de Formation Professionnelle)</a> 🇫🇷 and have since transitioned to Ruby and Ruby on Rails.
+  <br>
+  ⚙️ I love to learn new technologies and frameworks.
+  <br>
+  🛒 I’m currently working on an eCommerce project using Ruby on Rails.
+  <br>
+</p>
 
 
-###
-<h3 align="center" style="margin:20px;">My Skills</h3>
-
-###
-
-
-###
-
-<div align="center" style="margin:20px;">
-  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="mysql logo"  />
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="mysql logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="PostgreSQL logo" height="40" />
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/?app=desktop" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:sonam.sherpa.lama2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://in.linkedin.com/sonamsherpa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
 
-###
-<h3 align="center" style="margin:20px;">My Socials</h3>
-<div align="center" style="margin:20px;">
-  <a href = "https://sonamcv.online">
-  <img src="portfolio.png" height="35" alt="youtube logo"  />
-    </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href = "https://www.linkedin.com/in/sonamsherpa/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-</div>
+<hr>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,postgres,mysql,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=ruby,rails,vscode,heroku" />
+  </a>
+</p>
+<br>
+<h4>Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,googlecloud" />
+  </a>
+</p>
+<hr>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center" style="margin-top:20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=tchering&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
